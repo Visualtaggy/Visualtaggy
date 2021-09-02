@@ -31,9 +31,6 @@ A 22 Y/O Software developer from India. I'm passionate about blockchain technolo
 <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/lang/html.png" height="60" width="60">
 <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/android.png" height="60" width="60">
 <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/anvil.jpg" height="60" width="60">
-
-<br>
-
 <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/aws.png" height="60" width="60">
 <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/firebase.png" height="60" width="60">
 <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/flask.png" height="60" width="60">
@@ -46,7 +43,7 @@ A 22 Y/O Software developer from India. I'm passionate about blockchain technolo
 </div>
 <br >
 
-## 🏆 Github Status
+## 🏆 Github Stats
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Visualtaggy&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
