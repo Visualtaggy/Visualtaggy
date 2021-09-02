@@ -41,6 +41,8 @@ A 22 Y/O Software developer from India. I'm passionate about blockchain technolo
 <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/jenkins.png" height="60" width="60">
 <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/p4.png" height="60" width="60">
 <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/teamcity.png" height="60" width="60">
-<img height="60" src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/linux.png">
+<img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/linux.png" height="60" width="60">
+<img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/tech%20icon/tech/vs.png" height="60" width="60"> 
+  
 
 </div>
