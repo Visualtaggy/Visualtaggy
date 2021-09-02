@@ -1,3 +1,4 @@
+![](https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/Banner.jpg)
 <h1 align="center"> Hi, I'm Vishal<img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/wave.gif" width="30px"></h1>
 
 
