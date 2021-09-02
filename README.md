@@ -15,5 +15,8 @@ A 22 Y/O Software developer from India. I'm passionate about blockchain technolo
 - ⚡ I’m currently learning NodeJs, Python and ReactJs
 - 👯 I’m looking to collaborate on Python projects and Basic Web Dev (Full Stack)
 - 📧 How to reach me: visualtaggy@protonmail.com 
+- 🤫 Don't tell anyone but I have way too many private repositories here
 <br />
+
+
 
