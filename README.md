@@ -5,7 +5,7 @@
 [comment]: <> ( <h3 align="center">I'm a Computer Scientist and Build Engineer at Ubisoft 👨‍💻</h3>)
 
 
-A 22 Y/O Software developer from India. I'm passionate about blockchain technology and machine learning 🦾🤖. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, ☁️ Cloud computing, ⚙ DevOps, 🧪🥼 Innovation and Automation.
+A 22 Y/O software developer from India. I'm passionate about blockchain technology and machine learning 🦾🤖. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, ☁️ Cloud computing, ⚙ DevOps, 🧪🥼 Innovation and Automation.
 
 ![age](https://img.shields.io/badge/age-22-3c9)
 ![focus](https://img.shields.io/badge/focus-DSAlgo-3c9)
