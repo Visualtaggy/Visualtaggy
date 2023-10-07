@@ -1,9 +1,8 @@
 ![](https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/Banner.jpg)
 
-<h1 align="center"> Hi <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/wave.gif" width="30px" height="29px">, I'm Vishal</h1>
+<h1 align="center"> Hi <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/wave.png" width="30px" height="29px">, I'm Vishal</h1>
 
 [comment]: <> ( <h3 align="center">I'm a Computer Scientist and Build Engineer at Ubisoft 👨‍💻</h3>)
-
 
 A 22 Y/O software developer from India. I'm passionate about blockchain technology and machine learning 🦾🤖. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, ☁️ Cloud computing, ⚙ DevOps, 🧪🥼 Innovation and Automation.
 
@@ -53,7 +52,6 @@ A 22 Y/O software developer from India. I'm passionate about blockchain technolo
 <br >
 <br >
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=visualtaggy&count_private=true&theme=dark&title_color=11ab3a&hide=HLSL,html" width="35%" >
-  
 
 <div align="center">
 
