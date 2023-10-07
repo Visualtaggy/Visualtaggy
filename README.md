@@ -1,6 +1,6 @@
 ![](https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/Banner.jpg)
 
-<h1 align="center"> Hi <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/wave.png" width="30px" height="29px">, I'm Vishal</h1>
+<h1 align="center"> Hi <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/wave.png" width="40px" height="39px">, I'm Vishal</h1>
 
 [comment]: <> ( <h3 align="center">I'm a Computer Scientist and Build Engineer at Ubisoft 👨‍💻</h3>)
 
