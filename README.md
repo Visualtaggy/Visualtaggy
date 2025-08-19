@@ -7,7 +7,7 @@
 I’m Vishal, software developer from India, with a strong foundation in Machine Learning, Artificial Intelligence, and DevOps. I thrive on solving complex problems, particularly in scalability, efficiency, and automation, with a focus on real-time data processing and AI-driven solutions. My journey spans projects in game development, text processing, and blockchain technology. I’m passionate about **open-source**, **cloud computing**, **DevOps**, **innovation**, and **automation**.
 
 ![Focus](https://img.shields.io/badge/focus-AI&ML-3c9)
-![Living](https://img.shields.io/badge/living-Pune-3c9)
+![Living](https://img.shields.io/badge/living-California-3c9)
 
 <img width="50%" align="right" alt="Vector Banner" src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/vector.svg" />
 
