@@ -4,7 +4,7 @@
 
 <h3 align="center">MS NLP @ UC Santa Cruz | AI Systems & NLP Research</h3>
 
-I'm Vishal, a graduate student at UC Santa Cruz pursuing an MS in Natural Language Processing, based in California. I work across AI systems, ML infrastructure, and NLP research — with a focus on RAG pipelines, LLM evaluation, agentic AI, and production ML systems. My background spans industry (Ubisoft, Whatfix) and research (GUII Lab, IEEE Best Paper 2024).
+I'm Vishal, a graduate student at UC Santa Cruz pursuing an MS in Natural Language Processing, based in California. I work across AI systems, ML infrastructure, and NLP research — with a focus on RAG pipelines, LLM evaluation, agentic AI, and production ML systems. My background spans industry and research (GUII Lab, IEEE Best Paper 2024).
 
 ![Focus](https://img.shields.io/badge/focus-AI&ML-3c9)
 ![Living](https://img.shields.io/badge/living-California-3c9)
