@@ -2,9 +2,9 @@
 
 <h1 align="center"> Hi <img src="https://github.com/Visualtaggy/Visualtaggy/blob/main/Media/wave.png" width="40px" height="39px">, I'm Vishal</h1>
 
-<h3 align="center">AI & Machine Learning Specialist</h3>
+<h3 align="center">MS NLP @ UC Santa Cruz | AI Systems & Game Dev</h3>
 
-I’m Vishal, software developer from India, with a strong foundation in Machine Learning, Artificial Intelligence, and DevOps. I thrive on solving complex problems, particularly in scalability, efficiency, and automation, with a focus on real-time data processing and AI-driven solutions. My journey spans projects in game development, text processing, and blockchain technology. I’m passionate about **open-source**, **cloud computing**, **DevOps**, **innovation**, and **automation**.
+I'm Vishal, a graduate student at UC Santa Cruz pursuing an MS in Natural Language Processing, based in California. I work across AI systems, game development, and ML infrastructure — with a focus on RAG pipelines, LLM evaluation, agentic AI, and real-time systems. My background spans industry (Ubisoft, Whatfix) and research (GUII Lab, IEEE Best Paper 2024).
 
 ![Focus](https://img.shields.io/badge/focus-AI&ML-3c9)
 ![Living](https://img.shields.io/badge/living-California-3c9)
@@ -33,7 +33,10 @@ I’m Vishal, software developer from India, with a strong foundation in Machine
 
 ---
 
-## 📚 Featured Research Projects
+## 📚 Featured Projects
+
+- **[CriticRAG](https://github.com/Visualtaggy/CriticRAG)**  
+  Multi-agent RAG pipeline built from scratch — no LangChain, no LlamaIndex. Features MoE retrieval routing (dense/sparse/hybrid), a critic-driven validation loop with LLM-as-judge scoring, self-query reformulation, tool calling (live Wikipedia + calculator), and self-consistency generation. Evaluated on HotpotQA distractor split: +2% Exact Match and +2.5% Token F1 over single-pass RAG baseline across 100 hard multi-hop questions.
 
 - **[Integer Recognition Using Neural Networks](https://github.com/Visualtaggy/ADR)**  
   Developed a custom neural network in Java for real-time integer recognition, featuring custom weight and bias handling. The model efficiently processes low-resolution and stylized images using image preprocessing pipelines, enabling accurate recognition even in challenging conditions.
